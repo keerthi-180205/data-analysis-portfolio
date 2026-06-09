@@ -116,6 +116,6 @@ data-analysis-portfolio/
 
 ## Connect
 
-- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- GitHub: [github.com/yourusername](https://github.com/yourusername)
-- Email: your@email.com
+- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/keerthi-n)
+- GitHub: [github.com/yourusername](https://github.com/keerthi-180205)
+- Email: keerthin180205@email.com
