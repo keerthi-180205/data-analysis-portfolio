@@ -1,1 +1,6 @@
+# Jupyter checkpoints
 .ipynb_checkpoints/
+
+# Datasets
+titanic/Titanic-Dataset.csv
+netflix/netflix_titles.csv
