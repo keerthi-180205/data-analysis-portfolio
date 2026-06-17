@@ -4,3 +4,10 @@
 # Datasets
 titanic/Titanic-Dataset.csv
 netflix/netflix_titles.csv
+house_prices/housing.csv
+zomato/file1.json
+zomato/file2.json
+zomato/file3.json
+zomato/file4.json
+zomato/Cfile5.json
+zomato/zomato.csv
